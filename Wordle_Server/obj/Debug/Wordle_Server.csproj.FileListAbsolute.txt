@@ -1,0 +1,21 @@
+D:\SourceCode\LTMCB\Project\Wordle_Server\bin\Debug\Wordle_Server.exe.config
+D:\SourceCode\LTMCB\Project\Wordle_Server\bin\Debug\Wordle_Server.exe
+D:\SourceCode\LTMCB\Project\Wordle_Server\bin\Debug\Wordle_Server.pdb
+D:\SourceCode\LTMCB\Project\Wordle_Server\obj\Debug\Wordle_Server.csproj.AssemblyReference.cache
+D:\SourceCode\LTMCB\Project\Wordle_Server\obj\Debug\Wordle_Server.csproj.SuggestedBindingRedirects.cache
+D:\SourceCode\LTMCB\Project\Wordle_Server\obj\Debug\Wordle_Server.Properties.Resources.resources
+D:\SourceCode\LTMCB\Project\Wordle_Server\obj\Debug\Wordle_Server.ServerForm.resources
+D:\SourceCode\LTMCB\Project\Wordle_Server\obj\Debug\Wordle_Server.csproj.GenerateResource.cache
+D:\SourceCode\LTMCB\Project\Wordle_Server\obj\Debug\Wordle_Server.csproj.CoreCompileInputs.cache
+D:\SourceCode\LTMCB\Project\Wordle_Server\obj\Debug\Wordle_Server.exe
+D:\SourceCode\LTMCB\Project\Wordle_Server\obj\Debug\Wordle_Server.pdb
+E:\baitap\laptrinhmang\đồ án\Wordle_Server\bin\Debug\Wordle_Server.exe.config
+E:\baitap\laptrinhmang\đồ án\Wordle_Server\bin\Debug\Wordle_Server.exe
+E:\baitap\laptrinhmang\đồ án\Wordle_Server\bin\Debug\Wordle_Server.pdb
+E:\baitap\laptrinhmang\đồ án\Wordle_Server\obj\Debug\Wordle_Server.csproj.AssemblyReference.cache
+E:\baitap\laptrinhmang\đồ án\Wordle_Server\obj\Debug\Wordle_Server.Properties.Resources.resources
+E:\baitap\laptrinhmang\đồ án\Wordle_Server\obj\Debug\Wordle_Server.ServerForm.resources
+E:\baitap\laptrinhmang\đồ án\Wordle_Server\obj\Debug\Wordle_Server.csproj.GenerateResource.cache
+E:\baitap\laptrinhmang\đồ án\Wordle_Server\obj\Debug\Wordle_Server.csproj.CoreCompileInputs.cache
+E:\baitap\laptrinhmang\đồ án\Wordle_Server\obj\Debug\Wordle_Server.exe
+E:\baitap\laptrinhmang\đồ án\Wordle_Server\obj\Debug\Wordle_Server.pdb

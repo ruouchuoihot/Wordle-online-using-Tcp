@@ -1,0 +1,71 @@
+C:\Users\DEll\Downloads\Wordle-Swedish-main\Wordle-Swedish-main\bin\Debug\Wordle-Swedish.exe.config
+C:\Users\DEll\Downloads\Wordle-Swedish-main\Wordle-Swedish-main\bin\Debug\Wordle-Swedish.exe
+C:\Users\DEll\Downloads\Wordle-Swedish-main\Wordle-Swedish-main\bin\Debug\Wordle-Swedish.pdb
+C:\Users\DEll\Downloads\Wordle-Swedish-main\Wordle-Swedish-main\bin\Debug\sv-SE\Wordle-Swedish.resources.dll
+C:\Users\DEll\Downloads\Wordle-Swedish-main\Wordle-Swedish-main\obj\Debug\Wordle.GameUI.resources
+C:\Users\DEll\Downloads\Wordle-Swedish-main\Wordle-Swedish-main\obj\Debug\Wordle_Swedish.Properties.Resources.resources
+C:\Users\DEll\Downloads\Wordle-Swedish-main\Wordle-Swedish-main\obj\Debug\Wordle.GameUI.sv-SE.resources
+C:\Users\DEll\Downloads\Wordle-Swedish-main\Wordle-Swedish-main\obj\Debug\Wordle.csproj.GenerateResource.cache
+C:\Users\DEll\Downloads\Wordle-Swedish-main\Wordle-Swedish-main\obj\Debug\Wordle.csproj.CoreCompileInputs.cache
+C:\Users\DEll\Downloads\Wordle-Swedish-main\Wordle-Swedish-main\obj\Debug\sv-SE\Wordle-Swedish.resources.dll
+C:\Users\DEll\Downloads\Wordle-Swedish-main\Wordle-Swedish-main\obj\Debug\Wordle-Swedish.exe
+C:\Users\DEll\Downloads\Wordle-Swedish-main\Wordle-Swedish-main\obj\Debug\Wordle-Swedish.pdb
+C:\Users\DEll\Downloads\Wordle-Swedish-main\Wordle-Swedish-main\obj\Debug\Wordle.csproj.AssemblyReference.cache
+D:\uit\Yr3\LậpTrìnhMạngCănBản\Wordle\obj\Debug\Wordle.csproj.AssemblyReference.cache
+D:\uit\Yr3\LậpTrìnhMạngCănBản\Wordle\obj\Debug\Wordle.GameUI.resources
+D:\uit\Yr3\LậpTrìnhMạngCănBản\Wordle\obj\Debug\Wordle.GameUI.sv-SE.resources
+D:\uit\Yr3\LậpTrìnhMạngCănBản\Wordle\obj\Debug\Wordle.csproj.GenerateResource.cache
+D:\uit\Yr3\LậpTrìnhMạngCănBản\Wordle\obj\Debug\Wordle.csproj.CoreCompileInputs.cache
+D:\uit\Yr3\LậpTrìnhMạngCănBản\Wordle\bin\Debug\Wordle.exe.config
+D:\uit\Yr3\LậpTrìnhMạngCănBản\Wordle\bin\Debug\Wordle.exe
+D:\uit\Yr3\LậpTrìnhMạngCănBản\Wordle\bin\Debug\Wordle.pdb
+D:\uit\Yr3\LậpTrìnhMạngCănBản\Wordle\bin\Debug\sv-SE\Wordle.resources.dll
+D:\uit\Yr3\LậpTrìnhMạngCănBản\Wordle\obj\Debug\Wordle.Properties.Resources.resources
+D:\uit\Yr3\LậpTrìnhMạngCănBản\Wordle\obj\Debug\sv-SE\Wordle.resources.dll
+D:\uit\Yr3\LậpTrìnhMạngCănBản\Wordle\obj\Debug\Wordle.exe
+D:\uit\Yr3\LậpTrìnhMạngCănBản\Wordle\obj\Debug\Wordle.pdb
+D:\uit\Yr3\LậpTrìnhMạngCănBản\Wordle - edit\bin\Debug\Wordle.exe.config
+D:\uit\Yr3\LậpTrìnhMạngCănBản\Wordle - edit\bin\Debug\Wordle.exe
+D:\uit\Yr3\LậpTrìnhMạngCănBản\Wordle - edit\bin\Debug\Wordle.pdb
+D:\uit\Yr3\LậpTrìnhMạngCănBản\Wordle - edit\bin\Debug\sv-SE\Wordle.resources.dll
+D:\uit\Yr3\LậpTrìnhMạngCănBản\Wordle - edit\obj\Debug\Wordle.csproj.AssemblyReference.cache
+D:\uit\Yr3\LậpTrìnhMạngCănBản\Wordle - edit\obj\Debug\Wordle.GameUI.resources
+D:\uit\Yr3\LậpTrìnhMạngCănBản\Wordle - edit\obj\Debug\Wordle.Properties.Resources.resources
+D:\uit\Yr3\LậpTrìnhMạngCănBản\Wordle - edit\obj\Debug\Wordle.GameUI.sv-SE.resources
+D:\uit\Yr3\LậpTrìnhMạngCănBản\Wordle - edit\obj\Debug\Wordle.csproj.GenerateResource.cache
+D:\uit\Yr3\LậpTrìnhMạngCănBản\Wordle - edit\obj\Debug\Wordle.csproj.CoreCompileInputs.cache
+D:\uit\Yr3\LậpTrìnhMạngCănBản\Wordle - edit\obj\Debug\sv-SE\Wordle.resources.dll
+D:\uit\Yr3\LậpTrìnhMạngCănBản\Wordle - edit\obj\Debug\Wordle.exe
+D:\uit\Yr3\LậpTrìnhMạngCănBản\Wordle - edit\obj\Debug\Wordle.pdb
+D:\uit\Yr3\LậpTrìnhMạngCănBản\Wordle - edit\obj\Debug\Wordle.Menu.resources
+D:\uit\Yr3\LậpTrìnhMạngCănBản\Wordle - edit\obj\Debug\Wordle.Rule.resources
+D:\SourceCode\LTMCB\Project\Wordle_Client\bin\Debug\Wordle.exe.config
+D:\SourceCode\LTMCB\Project\Wordle_Client\bin\Debug\Wordle.exe
+D:\SourceCode\LTMCB\Project\Wordle_Client\bin\Debug\Wordle.pdb
+D:\SourceCode\LTMCB\Project\Wordle_Client\bin\Debug\sv-SE\Wordle.resources.dll
+D:\SourceCode\LTMCB\Project\Wordle_Client\obj\Debug\Wordle.csproj.AssemblyReference.cache
+D:\SourceCode\LTMCB\Project\Wordle_Client\obj\Debug\Wordle.csproj.SuggestedBindingRedirects.cache
+D:\SourceCode\LTMCB\Project\Wordle_Client\obj\Debug\Wordle.GameUI.resources
+D:\SourceCode\LTMCB\Project\Wordle_Client\obj\Debug\Wordle.Menu.resources
+D:\SourceCode\LTMCB\Project\Wordle_Client\obj\Debug\Wordle.Properties.Resources.resources
+D:\SourceCode\LTMCB\Project\Wordle_Client\obj\Debug\Wordle.GameUI.sv-SE.resources
+D:\SourceCode\LTMCB\Project\Wordle_Client\obj\Debug\Wordle.csproj.GenerateResource.cache
+D:\SourceCode\LTMCB\Project\Wordle_Client\obj\Debug\Wordle.csproj.CoreCompileInputs.cache
+D:\SourceCode\LTMCB\Project\Wordle_Client\obj\Debug\sv-SE\Wordle.resources.dll
+D:\SourceCode\LTMCB\Project\Wordle_Client\obj\Debug\Wordle.exe
+D:\SourceCode\LTMCB\Project\Wordle_Client\obj\Debug\Wordle.pdb
+E:\baitap\laptrinhmang\đồ án\Wordle_Client\bin\Debug\Wordle.exe.config
+E:\baitap\laptrinhmang\đồ án\Wordle_Client\bin\Debug\Wordle.exe
+E:\baitap\laptrinhmang\đồ án\Wordle_Client\obj\Debug\Wordle.csproj.AssemblyReference.cache
+E:\baitap\laptrinhmang\đồ án\Wordle_Client\obj\Debug\Wordle.howToPlay.resources
+E:\baitap\laptrinhmang\đồ án\Wordle_Client\obj\Debug\Wordle.GameUI.resources
+E:\baitap\laptrinhmang\đồ án\Wordle_Client\obj\Debug\Wordle.Menu.resources
+E:\baitap\laptrinhmang\đồ án\Wordle_Client\obj\Debug\Wordle.Properties.Resources.resources
+E:\baitap\laptrinhmang\đồ án\Wordle_Client\obj\Debug\Wordle.GameUI.sv-SE.resources
+E:\baitap\laptrinhmang\đồ án\Wordle_Client\obj\Debug\Wordle.csproj.GenerateResource.cache
+E:\baitap\laptrinhmang\đồ án\Wordle_Client\obj\Debug\Wordle.csproj.CoreCompileInputs.cache
+E:\baitap\laptrinhmang\đồ án\Wordle_Client\obj\Debug\sv-SE\Wordle.resources.dll
+E:\baitap\laptrinhmang\đồ án\Wordle_Client\obj\Debug\Wordle.exe
+E:\baitap\laptrinhmang\đồ án\Wordle_Client\obj\Debug\Wordle.pdb
+E:\baitap\laptrinhmang\đồ án\Wordle_Client\bin\Debug\Wordle.pdb
+E:\baitap\laptrinhmang\đồ án\Wordle_Client\bin\Debug\sv-SE\Wordle.resources.dll
